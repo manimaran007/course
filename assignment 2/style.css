@@ -1,0 +1,15 @@
+*{
+    background-image:url("./pexels-pixabay-247851.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: aqua;text-align:center;
+}
+p{
+    margin: 0px;
+    color: rgb(224, 196, 196);font-size:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;text-align: center;font-weight: bold;
+}
+
+
+
