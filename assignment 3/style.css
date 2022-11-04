@@ -1,0 +1,41 @@
+body{
+    background-color:white(143, 94, 21);
+}
+#hero{
+    text-align: center;
+    font-size: 5rem;
+    line-height: 8rem;
+    font-weight: 600;
+
+    
+}
+#content{
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 1.1rem;
+    line-height: 2.5rem;
+    font-weight: 400;
+
+}
+#members{
+    display:inline-flex;
+    justify-content: center;
+    align-items:center;
+    align-self: center;
+    width: 200px;
+    background-color: aqua;
+}
+#hi{
+    margin-top: 2rem;
+    background-color: rgb(197, 103, 103);
+    color: azure;
+    font-size: 1.6rem;
+    padding: 1rem 1.8rem;
+    border-radius: 5rem;
+    width: 300px;
+    align-self: center;
+}
+#tom{
+    background-color: aqua;
+    margin: auto;
+}
